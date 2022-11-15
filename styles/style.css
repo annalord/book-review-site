@@ -1,0 +1,33 @@
+body {
+    font-family: Georgia;
+    background-color: antiquewhite;
+}
+
+footer {
+    border-style: dotted;
+    border-color:aquamarine;
+    background-color: lavender;
+}
+
+header {
+    border-style: dashed;
+    border-color: aquamarine; 
+    background-color: red;
+}
+
+h2 {
+    color:blueviolet
+}
+
+a:hover {
+    color: #00FF00; 
+}
+
+.no-dots {
+    list-style-type: none;
+}
+
+.resize {
+    width: 300px;
+    height: auto;
+}
